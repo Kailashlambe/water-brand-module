@@ -1,5 +1,5 @@
 <?php
-namespace Earth\WaterBrand\Controller\Index;
+namespace Earth\Water\Controller\Index;
 
 class Test extends \Magento\Framework\App\Action\Action
 {
